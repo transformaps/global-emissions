@@ -2,56 +2,37 @@
   "date": "May 31, 2018",
   "authors": [
     {
-      "github": "johndoe",
-      "name": "John Doe",
-      "initials": "JD",
+      "github": "rgieseke",
+      "name": "Robert Gieseke",
+      "initials": "RG",
       "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "twitter": "johndoe",
-      "email": "john.doe@something.com",
+      "twitter": "openclimatedata",
+      "email": "robert.gieseke@pik-potsdam.de",
       "affiliations": [
-        "Department of Something, University of Whatever"
+        "Potsdam Institute for Climate Impact Research"
       ],
-      "funders": "Grant XXXXXXXX",
       "affiliation_numbers": [
         1
-      ]
-    },
-    {
-      "github": "janeroe",
-      "name": "Jane Roe",
-      "initials": "JR",
-      "orcid": "XXXX-XXXX-XXXX-XXXX",
-      "email": "jane.roe@whatever.edu",
-      "affiliations": [
-        "Department of Something, University of Whatever",
-        "Department of Whatever, University of Something"
-      ],
-      "affiliation_numbers": [
-        1,
-        2
       ]
     }
   ],
   "affiliations": [
     {
-      "affiliation": "Department of Something, University of Whatever",
+      "affiliation": "Potsdam Institute for Climate Impact Research",
       "affiliation_number": 1
-    },
-    {
-      "affiliation": "Department of Whatever, University of Something",
-      "affiliation_number": 2
     }
   ],
   "ci_source": {
     "repo_slug": "openclimatedata/global-emissions",
     "repo_owner": "openclimatedata",
     "repo_name": "global-emissions",
-    "commit": "9177f1c39cbac9d8c4613f793e50b737c03febb1"
+    "commit": "a3297a08d3732444269495a448d0fb942fa7fa3a"
   },
   "manuscript_stats": {
     "reference_counts": {
-      "total": 0
+      "doi": 3,
+      "total": 3
     },
-    "word_count": 216
+    "word_count": 233
   }
 }

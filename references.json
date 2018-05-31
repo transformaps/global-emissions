@@ -1,1 +1,437 @@
-[]
+[
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          30
+        ]
+      ],
+      "date-time": "2018-05-30T12:02:35Z",
+      "timestamp": 1527681755967
+    },
+    "reference-count": 0,
+    "publisher": "Copernicus GmbH",
+    "issue": "4",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "DOI": "10.5194/acp-11-1417-2011",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          16
+        ]
+      ],
+      "date-time": "2011-02-16T17:58:38Z",
+      "timestamp": 1297879118000
+    },
+    "page": "1417-1456",
+    "source": "Crossref",
+    "is-referenced-by-count": 209,
+    "title": "Emulating coupled atmosphere-ocean and carbon cycle models with a simpler model, MAGICC6 – Part 1: Model description and calibration",
+    "prefix": "10.5194",
+    "volume": "11",
+    "author": [
+      {
+        "given": "M.",
+        "family": "Meinshausen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "S. C. B.",
+        "family": "Raper",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "T. M. L.",
+        "family": "Wigley",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          16
+        ]
+      ]
+    },
+    "container-title": "Atmospheric Chemistry and Physics",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.atmos-chem-phys.net/11/1417/2011/acp-11-1417-2011.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2011-08-08T13:25:40Z",
+      "timestamp": 1312809940000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          2,
+          16
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2011
+          ]
+        ]
+      },
+      "issue": "4"
+    },
+    "URL": "https://doi.org/10.5194/acp-11-1417-2011",
+    "relation": {},
+    "container-title-short": "Atmos. Chem. Phys.",
+    "short_url": "https://doi.org/bgqxjm",
+    "id": "1HWXhzHfK"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          25
+        ]
+      ],
+      "date-time": "2018-05-25T06:42:33Z",
+      "timestamp": 1527230553607
+    },
+    "reference-count": 0,
+    "publisher": "Copernicus GmbH",
+    "license": [
+      {
+        "URL": "https://creativecommons.org/licenses/by/4.0/",
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              7
+            ]
+          ],
+          "date-time": "2017-12-07T00:00:00Z",
+          "timestamp": 1512604800000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100000270",
+        "name": "Natural Environment Research Council",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "NE/N006038/1"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Simple climate models can be valuable if they are able to replicate aspects of complex fully coupled earth system models. Larger ensembles can be produced, enabling a probabilistic view of future climate change. A simple emissions-based climate model, FAIR, is presented which calculates atmospheric concentrations of greenhouse gases and effective radiative forcing (ERF) from greenhouse gases, aerosols, ozone precursors and other agents. The ERFs are integrated into global mean surface temperature change. Model runs are constrained to observed temperature change from 1880 to 2016 and produce a range of future projections under the Representative Concentration Pathway (RCP) scenarios. For the historical period the ERF time series in FAIR emulates the results in the IPCC Fifth Assessment Report (AR5), whereas for RCP historical and future scenarios, the greenhouse gas concentrations in FAIR closely track the observations and projections in the RCPs. The constrained estimates of equilibrium climate sensitivity (ECS) of 2.79 (1.97 to 4.08)&amp;amp;thinsp;K, transient climate response (TCR) of 1.47 (1.03 to 2.23)&amp;amp;thinsp;K and transient climate response to cumulative CO&lt;sub&gt;2&lt;/sub&gt; emissions (TCRE) of 1.43 (1.01 to 2.16)&amp;amp;thinsp;K (1000&amp;amp;thinsp;GtC)&lt;sup&gt;&amp;amp;minus;1&lt;/sup&gt; (median and 5&amp;amp;ndash;95&amp;amp;thinsp;% credible intervals) are in good agreement, with tighter uncertainty bounds, than AR5 (1.5 to 4.5&amp;amp;thinsp;K, 1.0 to 2.5&amp;amp;thinsp;K, and 0.8 to 2.5&amp;amp;thinsp;K respectively). The ranges of future projections of temperature and ranges of estimates of ECS, TCR and TCRE are moderately sensitive to the historical temperature dataset used to constrain, prior distributions of ECS/TCR parameters, aerosol radiative forcing relationship and ERF from a doubling of CO&lt;sub&gt;2&lt;/sub&gt;. Taking these sensitivities into account, there is no evidence to suggest that the median and credible range of observationally constrained TCR or ECS differ from climate model-derived estimates. However, the range of temperature projections under the RCP scenarios for 2081&amp;amp;ndash;2100 in the constrained FAIR model ensemble are lower than the emissions-based estimates reported in AR5.\n                    </jats:p>",
+    "DOI": "10.5194/gmd-2017-266",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          7
+        ]
+      ],
+      "date-time": "2017-12-07T13:40:22Z",
+      "timestamp": 1512654022000
+    },
+    "page": "1-45",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": "FAIR v1.1: A simple emissions-based impulse response and carbon cycle model",
+    "prefix": "10.5194",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0003-0599-4633",
+        "authenticated-orcid": false,
+        "given": "Christopher J.",
+        "family": "Smith",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Piers M.",
+        "family": "Forster",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Myles",
+        "family": "Allen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicholas",
+        "family": "Leach",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard J.",
+        "family": "Millar",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Giovanni A.",
+        "family": "Passerello",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-2699-929X",
+        "authenticated-orcid": false,
+        "given": "Leighton A.",
+        "family": "Regayre",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          7
+        ]
+      ]
+    },
+    "container-title": "Geoscientific Model Development Discussions",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.geosci-model-dev-discuss.net/gmd-2017-266/gmd-2017-266.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          8
+        ]
+      ],
+      "date-time": "2018-03-08T20:34:18Z",
+      "timestamp": 1520541258000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          7
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5194/gmd-2017-266",
+    "relation": {},
+    "container-title-short": "Geosci. Model Dev. Discuss.",
+    "short_url": "https://doi.org/gdj53d",
+    "id": "FFG16eMK"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          31
+        ]
+      ],
+      "date-time": "2018-05-31T04:22:34Z",
+      "timestamp": 1527740554395
+    },
+    "reference-count": 0,
+    "publisher": "Copernicus GmbH",
+    "issue": "4",
+    "license": [
+      {
+        "URL": "http://creativecommons.org/licenses/by/3.0/",
+        "start": {
+          "date-parts": [
+            [
+              2015,
+              4,
+              1
+            ]
+          ],
+          "date-time": "2015-04-01T00:00:00Z",
+          "timestamp": 1427846400000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Simple climate models play an integral role in the policy and scientific communities. They are used for climate mitigation scenarios within integrated assessment models, complex climate model emulation, and uncertainty analyses. Here we describe Hector v1.0, an open source, object-oriented, simple global climate carbon-cycle model. This model runs essentially instantaneously while still representing the most critical global-scale earth system processes. Hector has a three-part main carbon cycle: a one-pool atmosphere, land, and ocean. The model's terrestrial carbon cycle includes primary production and respiration fluxes, accommodating arbitrary geographic divisions into, e.g., ecological biomes or political units. Hector actively solves the inorganic carbon system in the surface ocean, directly calculating air–sea fluxes of carbon and ocean pH. Hector reproduces the global historical trends of atmospheric [CO&lt;sub&gt;2&lt;/sub&gt;], radiative forcing, and surface temperatures. The model simulates all four Representative Concentration Pathways (RCPs) with equivalent rates of change of key variables over time compared to current observations, MAGICC (a well-known simple climate model), and models from the 5th Coupled Model Intercomparison Project. Hector's flexibility, open-source nature, and modular design will facilitate a broad range of research in various areas.</jats:p>",
+    "DOI": "10.5194/gmd-8-939-2015",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2015-04-01T18:28:08Z",
+      "timestamp": 1427912888000
+    },
+    "page": "939-955",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "A simple object-oriented and open-source model for scientific and policy analyses of the global climate system – Hector v1.0",
+    "prefix": "10.5194",
+    "volume": "8",
+    "author": [
+      {
+        "given": "C. A.",
+        "family": "Hartin",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "P.",
+        "family": "Patel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A.",
+        "family": "Schwarber",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "R. P.",
+        "family": "Link",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-9525-4633",
+        "authenticated-orcid": false,
+        "given": "B. P.",
+        "family": "Bond-Lamberty",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          1
+        ]
+      ]
+    },
+    "container-title": "Geoscientific Model Development",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.geosci-model-dev.net/8/939/2015/gmd-8-939-2015.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          1
+        ]
+      ],
+      "date-time": "2015-04-01T18:28:08Z",
+      "timestamp": 1427912888000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          4,
+          1
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2015
+          ]
+        ]
+      },
+      "issue": "4"
+    },
+    "URL": "https://doi.org/10.5194/gmd-8-939-2015",
+    "relation": {},
+    "container-title-short": "Geosci. Model Dev.",
+    "short_url": "https://doi.org/f7bz77",
+    "id": "1DSU5WkaJ"
+  }
+]

@@ -1,14 +1,13 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Robert Gieseke
 date-meta: '2018-05-31'
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-title: 'Manubot Rootstock: Manuscript Title'
+title: Global Emissions Timeseries for Simple Climate Models
 ...
 
 
@@ -18,9 +17,9 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://openclimatedata.github.io/global-emissions/v/9177f1c39cbac9d8c4613f793e50b737c03febb1/))
+([permalink](https://openclimatedata.github.io/global-emissions/v/a3297a08d3732444269495a448d0fb942fa7fa3a/))
 was automatically generated
-from [openclimatedata/global-emissions@9177f1c](https://github.com/openclimatedata/global-emissions/tree/9177f1c39cbac9d8c4613f793e50b737c03febb1)
+from [openclimatedata/global-emissions@a3297a0](https://github.com/openclimatedata/global-emissions/tree/a3297a08d3732444269495a448d0fb942fa7fa3a)
 on May 31, 2018.
 </em></small>
 
@@ -28,25 +27,15 @@ on May 31, 2018.
 
 
 
-+ **John Doe**<br>
++ **Robert Gieseke**<br>
     ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [johndoe](https://github.com/johndoe)
+    [rgieseke](https://github.com/rgieseke)
     · ![Twitter icon](images/twitter.svg){height="13px" width="13px"}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [openclimatedata](https://twitter.com/openclimatedata)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){height="13px" width="13px"}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){height="13px" width="13px"}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Potsdam Institute for Climate Impact Research
   </small>
 
 
@@ -54,6 +43,11 @@ on May 31, 2018.
 ## Abstract {.page_break_before}
 
 
+
+
+## Introduction
+
+Easily updateable emissions input data for simple cliamte models like MAGICC6[@1HWXhzHfK], Hector [@1DSU5WkaJ], or FAIR[@FFG16eMK].
 
 
 ## References {.page_break_before}
