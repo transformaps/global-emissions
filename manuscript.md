@@ -17,9 +17,9 @@ title: Global Emissions Timeseries
 
 <small><em>
 This manuscript
-([permalink](https://openclimatedata.github.io/global-emissions/v/94f9b13d0e5e376c1c59a67fd71b1dde89983ed8/))
+([permalink](https://openclimatedata.github.io/global-emissions/v/554ecaa1f7b615bd5e993a66941f22035c036664/))
 was automatically generated
-from [openclimatedata/global-emissions@94f9b13](https://github.com/openclimatedata/global-emissions/tree/94f9b13d0e5e376c1c59a67fd71b1dde89983ed8)
+from [openclimatedata/global-emissions@554ecaa](https://github.com/openclimatedata/global-emissions/tree/554ecaa1f7b615bd5e993a66941f22035c036664)
 on May 31, 2018.
 </em></small>
 
@@ -73,6 +73,11 @@ Figure @fig:global-co2 shows the sources together from 1990.
 #### Land-Use
 
 ### Methane (CH₄)
+
+PRIMAP-hist from 1850 to 2015 and RCP data [@S9E8uhkk] until 2005.
+
+![Global Methane (CH₄) Emissions [(High Resolution)](images/global-ch4.png)](images/global-ch4.png){#fig:global-ch4}
+
 
 ### N₂O
 

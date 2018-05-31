@@ -1,5 +1,198 @@
 [
   {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          31
+        ]
+      ],
+      "date-time": "2018-05-31T14:42:33Z",
+      "timestamp": 1527777753449
+    },
+    "reference-count": 87,
+    "publisher": "Springer Nature",
+    "issue": "1-2",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1007/s10584-011-0156-z",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          8
+        ]
+      ],
+      "date-time": "2011-08-08T13:24:21Z",
+      "timestamp": 1312809861000
+    },
+    "page": "213-241",
+    "source": "Crossref",
+    "is-referenced-by-count": 1018,
+    "title": "The RCP greenhouse gas concentrations and their extensions from 1765 to 2300",
+    "prefix": "10.1007",
+    "volume": "109",
+    "author": [
+      {
+        "given": "Malte",
+        "family": "Meinshausen",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "S. J.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "K.",
+        "family": "Calvin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J. S.",
+        "family": "Daniel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "M. L. T.",
+        "family": "Kainuma",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "J-F.",
+        "family": "Lamarque",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "K.",
+        "family": "Matsumoto",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "S. A.",
+        "family": "Montzka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "S. C. B.",
+        "family": "Raper",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "K.",
+        "family": "Riahi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A.",
+        "family": "Thomson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "G. J. M.",
+        "family": "Velders",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "D.P. P.",
+        "family": "van Vuuren",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          9
+        ]
+      ]
+    },
+    "container-title": "Climatic Change",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10584-011-0156-z",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          20
+        ]
+      ],
+      "date-time": "2017-06-20T04:26:08Z",
+      "timestamp": 1497932768000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          8,
+          9
+        ]
+      ]
+    },
+    "references-count": 87,
+    "journal-issue": {
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            11
+          ]
+        ]
+      },
+      "issue": "1-2"
+    },
+    "alternative-id": [
+      "156"
+    ],
+    "URL": "https://doi.org/10.1007/s10584-011-0156-z",
+    "relation": {
+      "cites": []
+    },
+    "container-title-short": "Climatic Change",
+    "short_url": "https://doi.org/fn3pw6",
+    "id": "S9E8uhkk"
+  },
+  {
     "type": "dataset",
     "id": "vsBj7RUP",
     "language": "en",
