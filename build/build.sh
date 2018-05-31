@@ -36,11 +36,11 @@ pandoc --verbose \
   --metadata link-citations=true \
   --mathjax \
   --css=github-pandoc.css \
-  --include-in-header=build/assets/analytics.html \
   --include-after-body=build/assets/anchors.html \
-  --include-after-body=build/assets/hypothesis.html \
   --output=output/manuscript.html \
   $INPUT_PATH
+  #--include-after-body=build/assets/hypothesis.html \
+  #--include-in-header=build/assets/analytics.html \
 
 # Create PDF output
 echo "Exporting PDF manuscript"
