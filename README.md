@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/openclimatedata/global-emissions/tree/gh-pages) branch hosts the contents of this directory at https://openclimatedata.github.io/global-emissions/.
-The permalink for this webpage version is https://openclimatedata.github.io/global-emissions/v/9177f1c39cbac9d8c4613f793e50b737c03febb1/.
+The permalink for this webpage version is https://openclimatedata.github.io/global-emissions/v/a3297a08d3732444269495a448d0fb942fa7fa3a/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://openclimatedata.github.io/global-emissions/v/freeze/.
 
 ## Files
@@ -32,4 +32,4 @@ git add v/*/*.ots
 ## Source
 
 The manuscripts in this directory were built from
-[`9177f1c39cbac9d8c4613f793e50b737c03febb1`](https://github.com/openclimatedata/global-emissions/commit/9177f1c39cbac9d8c4613f793e50b737c03febb1).
+[`a3297a08d3732444269495a448d0fb942fa7fa3a`](https://github.com/openclimatedata/global-emissions/commit/a3297a08d3732444269495a448d0fb942fa7fa3a).
