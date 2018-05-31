@@ -1,5 +1,5 @@
 ---
-title: "Manubot Rootstock: Manuscript Title"
+title: "Global Emissions Timeseries for Simple Climate Models"
 keywords:
   - markdown
   - publishing
@@ -7,21 +7,12 @@ keywords:
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
+    github: rgieseke
+    name: Robert Gieseke
+    initials: RG
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: openclimatedata
+    email: robert.gieseke@pik-potsdam.de
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Potsdam Institute for Climate Impact Research
+    #funders: Grant XXXXXXXX
