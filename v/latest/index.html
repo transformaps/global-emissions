@@ -7,7 +7,7 @@
   <meta name="author" content="Robert Gieseke" />
   <meta name="dcterms.date" content="2018-05-31" />
   <meta name="keywords" content="markdown, publishing, manubot" />
-  <title>Global Emissions Timeseries for Simple Climate Models</title>
+  <title>Global Emissions Timeseries</title>
   <style type="text/css">
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -21,9 +21,9 @@
 </head>
 <body>
 <header>
-<h1 class="title">Global Emissions Timeseries for Simple Climate Models</h1>
+<h1 class="title">Global Emissions Timeseries</h1>
 </header>
-<p><small><em> This manuscript (<a href="https://openclimatedata.github.io/global-emissions/v/a3297a08d3732444269495a448d0fb942fa7fa3a/">permalink</a>) was automatically generated from <a href="https://github.com/openclimatedata/global-emissions/tree/a3297a08d3732444269495a448d0fb942fa7fa3a">openclimatedata/global-emissions@a3297a0</a> on May 31, 2018. </em></small></p>
+<p><small><em> This manuscript (<a href="https://openclimatedata.github.io/global-emissions/v/94f9b13d0e5e376c1c59a67fd71b1dde89983ed8/">permalink</a>) was automatically generated from <a href="https://github.com/openclimatedata/global-emissions/tree/94f9b13d0e5e376c1c59a67fd71b1dde89983ed8">openclimatedata/global-emissions@94f9b13</a> on May 31, 2018. </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
 <li><strong>Robert Gieseke</strong><br> <img src="images/orcid.svg" alt="ORCID icon" width="13" height="13" /> <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX">XXXX-XXXX-XXXX-XXXX</a> · <img src="images/github.svg" alt="GitHub icon" width="13" height="13" /> <a href="https://github.com/rgieseke">rgieseke</a> · <img src="images/twitter.svg" alt="Twitter icon" width="13" height="13" /> <a href="https://twitter.com/openclimatedata">openclimatedata</a><br> <small> Potsdam Institute for Climate Impact Research </small></li>
@@ -31,6 +31,40 @@
 <h2 id="abstract" class="page_break_before">Abstract</h2>
 <h2 id="introduction">Introduction</h2>
 <p>Easily updateable emissions input data for simple cliamte models like MAGICC6<span class="citation" data-cites="1HWXhzHfK">[<a href="#ref-1HWXhzHfK">1</a>]</span>, Hector <span class="citation" data-cites="1DSU5WkaJ">[<a href="#ref-1DSU5WkaJ">2</a>]</span>, or FAIR<span class="citation" data-cites="FFG16eMK">[<a href="#ref-FFG16eMK">3</a>]</span>.</p>
+<p>Global-Only.</p>
+<h2 id="inputs">Inputs</h2>
+<h3 id="co">CO₂</h3>
+<h4 id="fossil-fuel-industrial">Fossil Fuel Industrial</h4>
+<p>The main contributor to global emissions are fossil fuel and industrial emissions which are available from multiple sources. They are usually based on energy statistics and cement production data. The longest time series from 1750 to 2017 (as a projection for the last year) is available in the Global Carbon Budget 2017 <span class="citation" data-cites="NTMWRLOg">[<a href="#ref-NTMWRLOg">4</a>]</span>, mainly based on data from CDIAC <span class="citation" data-cites="vsBj7RUP">[<a href="#ref-vsBj7RUP">5</a>]</span> and data submitted to the UNFCCC. PRIMAP-hist <span class="citation" data-cites="4IazMr2Z">[<a href="#ref-4IazMr2Z">6</a>]</span> in its version 1.2 <span class="citation" data-cites="14JM52yI">[<a href="#ref-14JM52yI">7</a>]</span> has data from 1850 to 2015 and is based on the same and other sources as the Global Carbon Budget, but does not include bunker emissions (international aviation and shipping). The EDGAR v4.3.2_FT2016 dataset <span class="citation" data-cites="gfT3ATpl">[<a href="#ref-gfT3ATpl">8</a>]</span> (in review) covers the years 1970 to 2016.</p>
+<p>Figure <a href="#fig:global-co2">1</a> shows the sources together from 1990.</p>
+<figure>
+<img src="images/global-co2.png" alt="Figure 1: Global Fossil Fuel and Industrial CO₂ Emissions from various datasets (High Resolution)" id="fig:global-co2" /><figcaption><span>Figure 1:</span> Global Fossil Fuel and Industrial CO₂ Emissions from various datasets <a href="images/global-co2.png">(High Resolution)</a></figcaption>
+</figure>
+<h4 id="land-use">Land-Use</h4>
+<h3 id="methane-ch">Methane (CH₄)</h3>
+<h3 id="no">N₂O</h3>
+<h3 id="sox">SOx</h3>
+<h3 id="co-1">CO</h3>
+<h3 id="nmvoc">NMVOC</h3>
+<h3 id="nox">NOx</h3>
+<h3 id="bc">BC</h3>
+<h3 id="oc">OC</h3>
+<h3 id="nh">NH₃</h3>
+<h3 id="halocarbons">Halocarbons</h3>
+<ul>
+<li>CF4</li>
+<li>C2F6</li>
+<li>C6F14</li>
+<li>HFC23</li>
+<li>HFC32</li>
+<li>HFC43-10</li>
+<li>HFC125</li>
+<li>HFC134a</li>
+<li>HFC143a</li>
+<li>HFC227ea</li>
+<li>HFC245fa</li>
+<li>SF6</li>
+</ul>
 <h2 id="references" class="page_break_before">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs">
@@ -48,6 +82,31 @@ C. A. Hartin, P. Patel, A. Schwarber, R. P. Link, B. P. Bond-Lamberty<br />
 <p>3. <strong>FAIR v1.1: A simple emissions-based impulse response and carbon cycle model</strong><br />
 Christopher J. Smith, Piers M. Forster, Myles Allen, Nicholas Leach, Richard J. Millar, Giovanni A. Passerello, Leighton A. Regayre<br />
 <em>Geoscientific Model Development Discussions</em> (2017-12-07) <a href="https://doi.org/10.5194/gmd-2017-266" class="uri">https://doi.org/10.5194/gmd-2017-266</a></p>
+</div>
+<div id="ref-NTMWRLOg">
+<p>4. <strong>Global Carbon Budget 2017</strong><br />
+Corinne Le Quéré, Robbie M. Andrew, Pierre Friedlingstein, Stephen Sitch, Julia Pongratz, Andrew C. Manning, Jan Ivar Korsbakken, Glen P. Peters, Josep G. Canadell, Robert B. Jackson, … Dan Zhu<br />
+<em>Earth System Science Data</em> (2018-03-12) <a href="https://doi.org/10.5194/essd-10-405-2018" class="uri">https://doi.org/10.5194/essd-10-405-2018</a></p>
+</div>
+<div id="ref-vsBj7RUP">
+<p>5. <strong>Global, Regional, and National Fossil-Fuel CO2 Emissions (1751 - 2014) (V. 2017)</strong><br />
+T. Boden, R. Andres, G. Marland<br />
+<em>Carbon Dioxide Information Analysis Center (CDIAC), Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States)</em> (2017) <a href="https://doi.org/10.3334/cdiac/00001_v2017" class="uri">https://doi.org/10.3334/cdiac/00001_v2017</a></p>
+</div>
+<div id="ref-4IazMr2Z">
+<p>6. <strong>The PRIMAP-hist national historical emissions time series</strong><br />
+Johannes Gütschow, M. Louise Jeffery, Robert Gieseke, Ronja Gebel, David Stevens, Mario Krapp, Marcia Rocha<br />
+<em>Earth System Science Data</em> (2016-11-09) <a href="https://doi.org/10.5194/essd-8-571-2016" class="uri">https://doi.org/10.5194/essd-8-571-2016</a></p>
+</div>
+<div id="ref-14JM52yI">
+<p>7. <strong>The PRIMAP-hist national historical emissions time series (1850-2015)</strong><br />
+Johannes Gütschow, Louise Jeffery, Robert Gieseke, Ronja Gebel<br />
+<em>GFZ Data Services</em> (2018) <a href="https://doi.org/10.5880/pik.2018.003" class="uri">https://doi.org/10.5880/pik.2018.003</a></p>
+</div>
+<div id="ref-gfT3ATpl">
+<p>8. <strong>EDGAR v4.3.2 Global Atlas of the three major Greenhouse Gas Emissions for the period 1970&amp;ndash;2012</strong><br />
+Greet Janssens-Maenhout, Monica Crippa, Diego Guizzardi, Marilena Muntean, Edwin Schaaf, Frank Dentener, Peter Bergamaschi, Valerio Pagliari, Jos G. J. Olivier, Jeroen A. H. W. Peters, … A. M. Roxana Petrescu<br />
+<em>Earth System Science Data Discussions</em> (2017-08-28) <a href="https://doi.org/10.5194/essd-2017-79" class="uri">https://doi.org/10.5194/essd-2017-79</a></p>
 </div>
 </div>
 <script>
