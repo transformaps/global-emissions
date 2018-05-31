@@ -1,5 +1,37 @@
 [
   {
+    "type": "dataset",
+    "id": "vsBj7RUP",
+    "language": "en",
+    "author": [
+      {
+        "family": "Boden",
+        "given": "T."
+      },
+      {
+        "family": "Andres",
+        "given": "R."
+      },
+      {
+        "family": "Marland",
+        "given": "G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "abstract": "Publications containing historical energy statistics make it possible to estimate fossil fuel CO2 emissions back to 1751. Etemad et al. (1991) published a summary compilation that tabulates coal, brown coal, peat, and crude oil production by nation and year. Footnotes in the Etemad et al.(1991) publication extend the energy statistics time series back to 1751. Summary compilations of fossil fuel trade were published by Mitchell (1983, 1992, 1993, 1995). Mitchell's work tabulates solid and liquid fuel imports and exports by nation and year. These pre-1950 production and trade data were digitized and CO2 emission calculations were made following the procedures discussed in Marland and Rotty (1984) and Boden et al. (1995). Further details on the contents and processing of the historical energy statistics are provided in Andres et al. (1999).  The 1950 to present CO2 emission estimates are derived primarily from energy statistics published by the United Nations (2017), using the methods of Marland and Rotty (1984). The energy statistics were compiled primarily from annual questionnaires distributed by the U.N. Statistical Office and supplemented by official national statistical publications. As stated in the introduction of the Statistical Yearbook, \"in a few cases, official sources are supplemented by other sources and estimates, where these have been subjected to professional scrutiny and debate and are consistent with other independent sources.\" Data from the U.S. Department of Interior's Geological Survey (USGS 2017) were used to estimate CO2 emitted during cement production. Values for emissions from gas flaring were derived primarily from U.N. data but were supplemented with data from the U.S. Department of Energy's Energy Information Administration (1994), Rotty (1974), and data provided by G. Marland. Greater details about these methods are provided in Marland and Rotty (1984), Boden et al. (1995), and Andres et al. (1999).",
+    "DOI": "10.3334/cdiac/00001_v2017",
+    "publisher": "Carbon Dioxide Information Analysis Center (CDIAC), Oak Ridge National Laboratory (ORNL), Oak Ridge, TN (United States)",
+    "title": "Global, Regional, and National Fossil-Fuel CO2 Emissions (1751 - 2014) (V. 2017)",
+    "URL": "https://doi.org/10.3334/cdiac/00001_v2017",
+    "short_url": "https://doi.org/gc6xjb"
+  },
+  {
     "indexed": {
       "date-parts": [
         [
@@ -117,6 +149,1023 @@
     "container-title-short": "Atmos. Chem. Phys.",
     "short_url": "https://doi.org/bgqxjm",
     "id": "1HWXhzHfK"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          26
+        ]
+      ],
+      "date-time": "2018-05-26T21:42:26Z",
+      "timestamp": 1527370946933
+    },
+    "reference-count": 178,
+    "publisher": "Copernicus GmbH",
+    "issue": "1",
+    "license": [
+      {
+        "URL": "https://creativecommons.org/licenses/by/4.0/",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              3,
+              12
+            ]
+          ],
+          "date-time": "2018-03-12T00:00:00Z",
+          "timestamp": 1520812800000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>Accurate assessment of anthropogenic carbon dioxide (CO&lt;sub&gt;2&lt;/sub&gt;) emissions and their redistribution among the atmosphere, ocean, and terrestrial biosphere – the &lt;q&gt;global carbon budget&lt;/q&gt; – is important to better understand the global carbon cycle, support the development of climate policies, and project future climate change. Here we describe data sets and methodology to quantify the five major components of the global carbon budget and their uncertainties. CO&lt;sub&gt;2&lt;/sub&gt; emissions from fossil fuels and industry (&lt;i&gt;E&lt;/i&gt;&lt;sub&gt;FF&lt;/sub&gt;) are based on energy statistics and cement production data, respectively, while emissions from land-use change (&lt;i&gt;E&lt;/i&gt;&lt;sub&gt;LUC&lt;/sub&gt;), mainly deforestation, are based on land-cover change data and bookkeeping models. The global atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentration is measured directly and its rate of growth (&lt;i&gt;G&lt;/i&gt;&lt;sub&gt;ATM&lt;/sub&gt;) is computed from the annual changes in concentration. The ocean CO&lt;sub&gt;2&lt;/sub&gt; sink (&lt;i&gt;S&lt;/i&gt;&lt;sub&gt;OCEAN&lt;/sub&gt;) and terrestrial CO&lt;sub&gt;2&lt;/sub&gt; sink (&lt;i&gt;S&lt;/i&gt;&lt;sub&gt;LAND&lt;/sub&gt;) are estimated with global process models constrained by observations. The resulting carbon budget imbalance (&lt;i&gt;B&lt;/i&gt;&lt;sub&gt;IM&lt;/sub&gt;), the difference between the estimated total emissions and the estimated changes in the atmosphere, ocean, and terrestrial biosphere, is a measure of imperfect data and understanding of the contemporary carbon cycle. All uncertainties are reported as ±1&lt;i&gt;σ&lt;/i&gt;. For the last decade available (2007–2016), &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;FF&lt;/sub&gt; was 9.4 ± 0.5 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;LUC&lt;/sub&gt; 1.3 ± 0.7 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, &lt;i&gt;G&lt;/i&gt;&lt;sub&gt;ATM&lt;/sub&gt; 4.7 ± 0.1 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, &lt;i&gt;S&lt;/i&gt;&lt;sub&gt;OCEAN&lt;/sub&gt; 2.4 ± 0.5 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, and &lt;i&gt;S&lt;/i&gt;&lt;sub&gt;LAND&lt;/sub&gt; 3.0 ± 0.8 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, with a budget imbalance &lt;i&gt;B&lt;/i&gt;&lt;sub&gt;IM&lt;/sub&gt; of 0.6 GtC yr&lt;sup&gt;−1&lt;/sup&gt; indicating overestimated emissions and/or underestimated sinks. For year 2016 alone, the growth in &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;FF&lt;/sub&gt; was approximately zero and emissions remained at 9.9 ± 0.5 GtC yr&lt;sup&gt;−1&lt;/sup&gt;. Also for 2016, &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;LUC&lt;/sub&gt; was 1.3 ± 0.7 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, &lt;i&gt;G&lt;/i&gt;&lt;sub&gt;ATM&lt;/sub&gt; was 6.1 ± 0.2 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, &lt;i&gt;S&lt;/i&gt;&lt;sub&gt;OCEAN&lt;/sub&gt; was 2.6 ± 0.5 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, and &lt;i&gt;S&lt;/i&gt;&lt;sub&gt;LAND&lt;/sub&gt; was 2.7 ± 1.0 GtC yr&lt;sup&gt;−1&lt;/sup&gt;, with a small &lt;i&gt;B&lt;/i&gt;&lt;sub&gt;IM&lt;/sub&gt; of −0.3 GtC. &lt;i&gt;G&lt;/i&gt;&lt;sub&gt;ATM&lt;/sub&gt; continued to be higher in 2016 compared to the past decade (2007–2016), reflecting in part the high fossil emissions and the small &lt;i&gt;S&lt;/i&gt;&lt;sub&gt;LAND&lt;/sub&gt; consistent with El Niño conditions. The global atmospheric CO&lt;sub&gt;2&lt;/sub&gt; concentration reached 402.8 ± 0.1 ppm averaged over 2016. For 2017, preliminary data for the first 6–9 months indicate a renewed growth in &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;FF&lt;/sub&gt; of +2.0 % (range of 0.8 to 3.0 %) based on national emissions projections for China, USA, and India, and projections of gross domestic product (GDP) corrected for recent changes in the carbon intensity of the economy for the rest of the world. This living data update documents changes in the methods and data sets used in this new global carbon budget compared with previous publications of this data set (Le Quéré et al., 2016, 2015b, a, 2014, 2013). All results presented here can be downloaded from &lt;a href=\"https://doi.org/10.18160/GCP-2017\" target=\"_blank\"&gt;https://doi.org/10.18160/GCP-2017&lt;/a&gt; (GCP, 2017).\n                    </jats:p>",
+    "DOI": "10.5194/essd-10-405-2018",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2018-03-12T09:01:10Z",
+      "timestamp": 1520845270000
+    },
+    "page": "405-448",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "Global Carbon Budget 2017",
+    "prefix": "10.5194",
+    "volume": "10",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0003-2319-0452",
+        "authenticated-orcid": false,
+        "given": "Corinne",
+        "family": "Le Quéré",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8590-6431",
+        "authenticated-orcid": false,
+        "given": "Robbie M.",
+        "family": "Andrew",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pierre",
+        "family": "Friedlingstein",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Stephen",
+        "family": "Sitch",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Julia",
+        "family": "Pongratz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew C.",
+        "family": "Manning",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-2939-9778",
+        "authenticated-orcid": false,
+        "given": "Jan Ivar",
+        "family": "Korsbakken",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-7889-8568",
+        "authenticated-orcid": false,
+        "given": "Glen P.",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-8788-3218",
+        "authenticated-orcid": false,
+        "given": "Josep G.",
+        "family": "Canadell",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Robert B.",
+        "family": "Jackson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Thomas A.",
+        "family": "Boden",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pieter P.",
+        "family": "Tans",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-1921-475X",
+        "authenticated-orcid": false,
+        "given": "Oliver D.",
+        "family": "Andrews",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Vivek K.",
+        "family": "Arora",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-9234-5337",
+        "authenticated-orcid": false,
+        "given": "Dorothee C. E.",
+        "family": "Bakker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Leticia",
+        "family": "Barbero",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meike",
+        "family": "Becker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard A.",
+        "family": "Betts",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Laurent",
+        "family": "Bopp",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-4327-3813",
+        "authenticated-orcid": false,
+        "given": "Frédéric",
+        "family": "Chevallier",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Louise P.",
+        "family": "Chini",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Philippe",
+        "family": "Ciais",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Catherine E.",
+        "family": "Cosca",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jessica",
+        "family": "Cross",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kim",
+        "family": "Currie",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Thomas",
+        "family": "Gasser",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ian",
+        "family": "Harris",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-4723-9652",
+        "authenticated-orcid": false,
+        "given": "Judith",
+        "family": "Hauck",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Vanessa",
+        "family": "Haverd",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Richard A.",
+        "family": "Houghton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Christopher W.",
+        "family": "Hunt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-7278-202X",
+        "authenticated-orcid": false,
+        "given": "George",
+        "family": "Hurtt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tatiana",
+        "family": "Ilyina",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Atul K.",
+        "family": "Jain",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8814-804X",
+        "authenticated-orcid": false,
+        "given": "Etsushi",
+        "family": "Kato",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Markus",
+        "family": "Kautz",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-9749-2253",
+        "authenticated-orcid": false,
+        "given": "Ralph F.",
+        "family": "Keeling",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Kees",
+        "family": "Klein Goldewijk",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Arne",
+        "family": "Körtzinger",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Peter",
+        "family": "Landschützer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nathalie",
+        "family": "Lefèvre",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew",
+        "family": "Lenton",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-1740-918X",
+        "authenticated-orcid": false,
+        "given": "Sebastian",
+        "family": "Lienert",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ivan",
+        "family": "Lima",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Danica",
+        "family": "Lombardozzi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicolas",
+        "family": "Metzl",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Frank",
+        "family": "Millero",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Pedro M. S.",
+        "family": "Monteiro",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David R.",
+        "family": "Munro",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-8122-5206",
+        "authenticated-orcid": false,
+        "given": "Julia E. M. S.",
+        "family": "Nabel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Shin-ichiro",
+        "family": "Nakaoka",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Yukihiro",
+        "family": "Nojiri",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "X. Antonio",
+        "family": "Padin",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Anna",
+        "family": "Peregon",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin",
+        "family": "Pfeil",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Denis",
+        "family": "Pierrot",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Benjamin",
+        "family": "Poulter",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-0597-9989",
+        "authenticated-orcid": false,
+        "given": "Gregor",
+        "family": "Rehder",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Janet",
+        "family": "Reimer",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Christian",
+        "family": "Rödenbeck",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jörg",
+        "family": "Schwinger",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Roland",
+        "family": "Séférian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ingunn",
+        "family": "Skjelvan",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-2697-9096",
+        "authenticated-orcid": false,
+        "given": "Benjamin D.",
+        "family": "Stocker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-1806-4091",
+        "authenticated-orcid": false,
+        "given": "Hanqin",
+        "family": "Tian",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Bronte",
+        "family": "Tilbrook",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Francesco N.",
+        "family": "Tubiello",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-3990-6737",
+        "authenticated-orcid": false,
+        "given": "Ingrid T.",
+        "family": "van der Laan-Luijkx",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Guido R.",
+        "family": "van der Werf",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-2001-8710",
+        "authenticated-orcid": false,
+        "given": "Steven",
+        "family": "van Heuven",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-9197-6417",
+        "authenticated-orcid": false,
+        "given": "Nicolas",
+        "family": "Viovy",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Nicolas",
+        "family": "Vuichard",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-0557-5594",
+        "authenticated-orcid": false,
+        "given": "Anthony P.",
+        "family": "Walker",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Watson",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Andrew J.",
+        "family": "Wiltshire",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-5602-7956",
+        "authenticated-orcid": false,
+        "given": "Sönke",
+        "family": "Zaehle",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-5857-1899",
+        "authenticated-orcid": false,
+        "given": "Dan",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          12
+        ]
+      ]
+    },
+    "container-title": "Earth System Science Data",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.earth-syst-sci-data.net/10/405/2018/essd-10-405-2018.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          12
+        ]
+      ],
+      "date-time": "2018-03-12T10:23:00Z",
+      "timestamp": 1520850180000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          12
+        ]
+      ]
+    },
+    "references-count": 178,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "URL": "https://doi.org/10.5194/essd-10-405-2018",
+    "relation": {
+      "is-part-of": [
+        {
+          "id-type": "doi",
+          "id": "\n                                    10.18160/GCP-2017\n                                ",
+          "asserted-by": "subject"
+        }
+      ],
+      "cites": []
+    },
+    "container-title-short": "Earth Syst. Sci. Data",
+    "short_url": "https://doi.org/gc5r9r",
+    "id": "NTMWRLOg"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2018-05-08T18:23:39Z",
+      "timestamp": 1525803819437
+    },
+    "reference-count": 0,
+    "publisher": "Copernicus GmbH",
+    "license": [
+      {
+        "URL": "https://creativecommons.org/licenses/by/4.0/",
+        "start": {
+          "date-parts": [
+            [
+              2017,
+              8,
+              28
+            ]
+          ],
+          "date-time": "2017-08-28T00:00:00Z",
+          "timestamp": 1503878400000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>The Emissions Database for Global Atmospheric Research (EDGAR) compiles anthropogenic global emissions and trends based on international statistics and best-available emission factors, for the use in atmospheric models and in policy evaluation. The new version v4.3.2 of the EDGAR emission inventory provides global emission estimates, disaggregated at source-sector level, for the historic period from 1970 (the year of EU's first Air Quality Directive) until 2012 (the end year of the first commitment period of the Kyoto Protocol). The global geo-coverage and continuous time-series are strengths of the EDGAR database, which applies the same methodology and mainly default emission factors to all world countries, in order to achieve comparability and full transparency. Region-specific emission factors are selected, when these are recommended by IPCC (2006) guidelines or when these are justified by robust information on significant differences in economic activities, in customs or in geographical ambient conditions and proven to be more representative than the global average. This database is not only unique in its space-time coverage, but also in the completeness and consistency of the estimated emissions of multiple pollutants: the greenhouse gases (GHG), air pollutants and aerosols. This publication documents the first part of the EDGAR v4.3.2 emissions database focusing on emissions of the three major greenhouse gases of CO&lt;sub&gt;2&lt;/sub&gt;, CH&lt;sub&gt;4&lt;/sub&gt; and N&lt;sub&gt;2&lt;/sub&gt;O, from human activities apart from the land-use, land-use change and forestry (LULUCF) sector (including forest and savannah burning). Unlike the activities of the LULUCF sector, which are typically estimated top-down from less certain land-use observations, all these activities are estimated bottom-up from standard annual statistics of fuel, products, waste, crops or livestock. We present country-specific emission totals and analyse the trends and variations in emissions of the largest emitting countries together with the EU in more detail, to uncover the effect of changes in human activities with time on each of the gases. The GWP-100 weighted global total GHG emission trend is predominantly determined by the global CO&lt;sub&gt;2&lt;/sub&gt; trend and in particular, by fuel markets trends, geopolitical changes and financial crises rather than population changes. We also evaluate the uncertainty in emissions for different sectors and three groups of countries (the OECD countries of 1990, the countries with economies in transition in 1990 and the remaining non-Annex I countries). Even though large progress has been made on emission inventory compilation, the uncertainty in global total GHG emissions has not decreased, because of the increasing share of emissions from countries with less developed statistical infrastructure and secondly the decreasing share of emissions from the activities (e.g. coal power plants) for which relatively accurate information is available. Finally, we discuss changes in geospatial distribution with a focus on hot spots and megacities using gridded information. Data is presented online for each source category with annual and monthly global emissions grid-maps of 0.1&amp;amp;deg; &amp;amp;times; 0.1&amp;amp;deg; resolution and can be freely accessed from the EDGAR website &lt;a href=\"http://edgar.jrc.ec.europa.eu/overview.php?v=432&amp;amp;SECURE=123\"&gt;http://edgar.jrc.ec.europa.eu/overview.php?v=432&amp;amp;SECURE=123&lt;/a&gt; (DOI: &lt;a href=\"https://data.europa.eu/doi/10.2904/JRC_DATASET_EDGAR\"&gt;https://data.europa.eu/doi/10.2904/JRC_DATASET_EDGAR&lt;/a&gt;).\n                    </jats:p>",
+    "DOI": "10.5194/essd-2017-79",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2017-08-28T13:42:37Z",
+      "timestamp": 1503927757000
+    },
+    "page": "1-55",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "EDGAR v4.3.2 Global Atlas of the three major Greenhouse\nGas Emissions for the period 1970&amp;ndash;2012",
+    "prefix": "10.5194",
+    "author": [
+      {
+        "given": "Greet",
+        "family": "Janssens-Maenhout",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "Monica",
+        "family": "Crippa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Diego",
+        "family": "Guizzardi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marilena",
+        "family": "Muntean",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Edwin",
+        "family": "Schaaf",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Frank",
+        "family": "Dentener",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-4555-1829",
+        "authenticated-orcid": false,
+        "given": "Peter",
+        "family": "Bergamaschi",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Valerio",
+        "family": "Pagliari",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jos G. J.",
+        "family": "Olivier",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jeroen A. H. W.",
+        "family": "Peters",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "John A.",
+        "family": "van Aardenne",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-2154-2154",
+        "authenticated-orcid": false,
+        "given": "Suvi",
+        "family": "Monni",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ulrike",
+        "family": "Doering",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "A. M. Roxana",
+        "family": "Petrescu",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          28
+        ]
+      ]
+    },
+    "container-title": "Earth System Science Data Discussions",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.earth-syst-sci-data-discuss.net/essd-2017-79/essd-2017-79.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          30
+        ]
+      ],
+      "date-time": "2017-12-30T17:08:18Z",
+      "timestamp": 1514653698000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          8,
+          28
+        ]
+      ]
+    },
+    "references-count": 0,
+    "URL": "https://doi.org/10.5194/essd-2017-79",
+    "relation": {
+      "is-part-of": [
+        {
+          "id-type": "doi",
+          "id": "\n                                    10.2904/JRC_DATASET_EDGAR\n                                ",
+          "asserted-by": "subject"
+        }
+      ]
+    },
+    "container-title-short": "Earth Syst. Sci. Data Discuss.",
+    "short_url": "https://doi.org/gcdqcp",
+    "id": "gfT3ATpl"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          17
+        ]
+      ],
+      "date-time": "2018-04-17T20:06:29Z",
+      "timestamp": 1523995589077
+    },
+    "reference-count": 0,
+    "publisher": "Copernicus GmbH",
+    "issue": "2",
+    "license": [
+      {
+        "URL": "http://creativecommons.org/licenses/by/3.0/",
+        "start": {
+          "date-parts": [
+            [
+              2016,
+              11,
+              9
+            ]
+          ],
+          "date-time": "2016-11-09T00:00:00Z",
+          "timestamp": 1478649600000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100006549",
+        "name": "Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "11_II_093_Global_A_SIDS_and_LDCs"
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>To assess the history of greenhouse gas emissions and individual countries' contributions to emissions and climate change, detailed historical data are needed. We combine several published datasets to create a comprehensive set of emissions pathways for each country and Kyoto gas, covering the years 1850 to 2014 with yearly values, for all UNFCCC member states and most non-UNFCCC territories. The sectoral resolution is that of the main IPCC 1996 categories. Additional time series of CO&lt;sub&gt;2&lt;/sub&gt; are available for energy and industry subsectors. Country-resolved data are combined from different sources and supplemented using year-to-year growth rates from regionally resolved sources and numerical extrapolations to complete the dataset. Regional deforestation emissions are downscaled to country level using estimates of the deforested area obtained from potential vegetation and simulations of agricultural land. In this paper, we discuss the data sources and methods used and present the resulting dataset, including its limitations and uncertainties. The dataset is available from &lt;a href=\"http://dx.doi.org/10.5880/PIK.2016.003\" target=\"_blank\"&gt;doi:10.5880/PIK.2016.003&lt;/a&gt; and can be viewed on the website accompanying this paper (&lt;a href=\"http://www.pik-potsdam.de/primap-live/primap-hist/\" target=\"_blank\"&gt;http://www.pik-potsdam.de/primap-live/primap-hist/&lt;/a&gt;).\n                    </jats:p>",
+    "DOI": "10.5194/essd-8-571-2016",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2016-11-09T06:45:46Z",
+      "timestamp": 1478673946000
+    },
+    "page": "571-603",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": "The PRIMAP-hist national historical emissions time series",
+    "prefix": "10.5194",
+    "volume": "8",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0001-9944-3685",
+        "authenticated-orcid": false,
+        "given": "Johannes",
+        "family": "Gütschow",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "given": "M. Louise",
+        "family": "Jeffery",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Robert",
+        "family": "Gieseke",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ronja",
+        "family": "Gebel",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "David",
+        "family": "Stevens",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-2599-0683",
+        "authenticated-orcid": false,
+        "given": "Mario",
+        "family": "Krapp",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Marcia",
+        "family": "Rocha",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          9
+        ]
+      ]
+    },
+    "container-title": "Earth System Science Data",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.earth-syst-sci-data.net/8/571/2016/essd-8-571-2016.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          9
+        ]
+      ],
+      "date-time": "2016-11-09T06:45:50Z",
+      "timestamp": 1478673950000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          9
+        ]
+      ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "issue": "2"
+    },
+    "URL": "https://doi.org/10.5194/essd-8-571-2016",
+    "relation": {},
+    "container-title-short": "Earth Syst. Sci. Data",
+    "short_url": "https://doi.org/f9cwhz",
+    "id": "4IazMr2Z"
   },
   {
     "indexed": {
@@ -433,5 +1482,42 @@
     "container-title-short": "Geosci. Model Dev.",
     "short_url": "https://doi.org/f7bz77",
     "id": "1DSU5WkaJ"
+  },
+  {
+    "type": "dataset",
+    "id": "14JM52yI",
+    "language": "eng",
+    "author": [
+      {
+        "family": "Gütschow",
+        "given": "Johannes"
+      },
+      {
+        "family": "Jeffery",
+        "given": "Louise"
+      },
+      {
+        "family": "Gieseke",
+        "given": "Robert"
+      },
+      {
+        "family": "Gebel",
+        "given": "Ronja"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "abstract": "This is an updated version of Gütschow et al. (2017, http://doi.org/10.5880/pik.2017.001). Please use this version which incorporates updates to input data as well as correction of errors in the original dataset and its first update. For a detailed description of the changes please consult the CHANGELOG included in the data description document.This dataset combines several published datasets to create a comprehensive set of greenhouse gas emission pathways for every country and Kyoto gas covering the years 1850 to 2015 and all UNFCCC (United Nations Framework Convention on Climate Change) member states as well as most non-UNFCCC territories. The data resolves the main IPCC (Intergovernmental Panel on Climate Change) 1996 categories. For CO2‚‚ from energy and industry time series for subsectors are available.List of datasets included in this data publication:(1) PRIMAP-hist_v1.2_14-Dec-2017.csv: With numerical extrapolation of all time series to 2014. (only in .zip folder)(2) PRIMAP-hist_no_extrapolation_v1.2_14-Dec-2017.csv: Without numerical extrapolation of missing values. (only in .zip folder)(3) PRIMAP-hist_v1.2_data-format-description: including CHANGELOG(4) PRIMAP-hist_v1.2_updated_figures: updated figures of those published in Gütschow et al. (2016)(all files are also included in the .zip folder)When using this dataset or one of its updates, please also cite the data description article (Gütschow et al., 2016, http://doi.org/10.5194/essd-8-571-2016) to which this data are supplement to. Please consider also citing the relevant original sources.SOURCES:- UNFCCC National Communications and National Inventory Reports for developing countries: UNFCCC (2017B)- UNFCCC Biennal Update Reports: UNFCCC (2016)- UNFCCC Common Reporting Format (CRF): UNFCCC (2016), UNFCCC (2017)- BP Statistical Review of World Energy: BP (2017)- CDIAC: Boden et al. (2017)- EDGAR versions 4.2 and 4.2 FT2010: JRC and PBL (2011), Olivier and Janssens-Maenhout (2012)- FAOSTAT database: Food and Agriculture Organization of the United Nations (2016)- Houghton land use CO2: Houghton (2008)- RCP historical data: Meinshausen et al. (2011)- EDGAR-HYDE 1.4: Van Aardenne et al. (2001), Olivier and Berdowski (2001)- HYDE land cover data: Klein Goldewijk et al. (2010), Klein Goldewijk et al. (2011)- SAGE Global Potential Vegetation Dataset: Ramankutty and Foley (1999)- FAO Country Boundaries: Food and Agriculture Organization of the United Nations (2015)",
+    "DOI": "10.5880/pik.2018.003",
+    "publisher": "GFZ Data Services",
+    "title": "The PRIMAP-hist national historical emissions time series (1850-2015)",
+    "URL": "https://doi.org/10.5880/pik.2018.003",
+    "version": "1.2",
+    "short_url": "https://doi.org/gc5vqc"
   }
 ]
