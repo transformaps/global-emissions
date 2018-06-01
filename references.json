@@ -1365,6 +1365,265 @@
       "date-parts": [
         [
           2018,
+          6,
+          1
+        ]
+      ],
+      "date-time": "2018-06-01T07:22:30Z",
+      "timestamp": 1527837750213
+    },
+    "reference-count": 137,
+    "publisher": "Copernicus GmbH",
+    "issue": "1",
+    "license": [
+      {
+        "URL": "https://creativecommons.org/licenses/by/3.0/",
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              29
+            ]
+          ],
+          "date-time": "2018-01-29T00:00:00Z",
+          "timestamp": 1517184000000
+        },
+        "delay-in-days": 0,
+        "content-version": "unspecified"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>We present a new data set of annual historical (1750–2014) anthropogenic chemically reactive gases (CO, CH&lt;sub&gt;4&lt;/sub&gt;, NH&lt;sub&gt;3&lt;/sub&gt;, NO&lt;sub&gt;x&lt;/sub&gt;, SO&lt;sub&gt;2&lt;/sub&gt;, NMVOCs), carbonaceous aerosols (black carbon – BC, and organic carbon – OC), and CO&lt;sub&gt;2&lt;/sub&gt; developed with the Community Emissions Data System (CEDS). We improve upon existing inventories with a more consistent and reproducible methodology applied to all emission species, updated emission factors, and recent estimates through 2014. The data system relies on existing energy consumption data sets and regional and country-specific inventories to produce trends over recent decades. All emission species are consistently estimated using the same activity data over all time periods. Emissions are provided on an annual basis at the level of country and sector and gridded with monthly seasonality. These estimates are comparable to, but generally slightly higher than, existing global inventories. Emissions over the most recent years are more uncertain, particularly in low- and middle-income regions where country-specific emission inventories are less available. Future work will involve refining and updating these emission estimates, estimating emissions' uncertainty, and publication of the system as open-source software.\n                    </jats:p>",
+    "DOI": "10.5194/gmd-11-369-2018",
+    "type": "article-journal",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2018-01-29T12:23:38Z",
+      "timestamp": 1517228618000
+    },
+    "page": "369-408",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": "Historical (1750–2014) anthropogenic emissions of reactive gases and aerosols from the Community Emissions Data System (CEDS)",
+    "prefix": "10.5194",
+    "volume": "11",
+    "author": [
+      {
+        "ORCID": "http://orcid.org/0000-0003-0965-2729",
+        "authenticated-orcid": false,
+        "given": "Rachel M.",
+        "family": "Hoesly",
+        "sequence": "first",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0003-3248-5607",
+        "authenticated-orcid": false,
+        "given": "Steven J.",
+        "family": "Smith",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-5426-8403",
+        "authenticated-orcid": false,
+        "given": "Leyang",
+        "family": "Feng",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zbigniew",
+        "family": "Klimont",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Greet",
+        "family": "Janssens-Maenhout",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tyler",
+        "family": "Pitkanen",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Jonathan J.",
+        "family": "Seibert",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Linh",
+        "family": "Vu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0001-8781-4979",
+        "authenticated-orcid": false,
+        "given": "Robert J.",
+        "family": "Andres",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Ryan M.",
+        "family": "Bolt",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Tami C.",
+        "family": "Bond",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Laura",
+        "family": "Dawidowski",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "ORCID": "http://orcid.org/0000-0002-4716-8770",
+        "authenticated-orcid": false,
+        "given": "Nazar",
+        "family": "Kholod",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "June-ichi",
+        "family": "Kurokawa",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Meng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Liang",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Zifeng",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Maria Cecilia P.",
+        "family": "Moura",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Patrick R.",
+        "family": "O&amp;apos;Rourke",
+        "sequence": "additional",
+        "affiliation": []
+      },
+      {
+        "given": "Qiang",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": []
+      }
+    ],
+    "member": "3145",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          29
+        ]
+      ]
+    },
+    "container-title": "Geoscientific Model Development",
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.geosci-model-dev.net/11/369/2018/gmd-11-369-2018.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2018-01-29T12:26:00Z",
+      "timestamp": 1517228760000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          29
+        ]
+      ]
+    },
+    "references-count": 137,
+    "journal-issue": {
+      "published-online": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "issue": "1"
+    },
+    "URL": "https://doi.org/10.5194/gmd-11-369-2018",
+    "relation": {
+      "is-part-of": [
+        {
+          "id-type": "doi",
+          "id": "\n                                    10.22033/ESGF/input4MIPs.1241\n                                ",
+          "asserted-by": "subject"
+        }
+      ],
+      "cites": []
+    },
+    "container-title-short": "Geosci. Model Dev.",
+    "short_url": "https://doi.org/gcxtgm",
+    "id": "wKi5sIC4"
+  },
+  {
+    "indexed": {
+      "date-parts": [
+        [
+          2018,
           5,
           25
         ]

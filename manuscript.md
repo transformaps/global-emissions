@@ -17,9 +17,9 @@ title: Global Emissions Timeseries
 
 <small><em>
 This manuscript
-([permalink](https://openclimatedata.github.io/global-emissions/v/69a6286e7e0d35c1769be6792c714a9f17e3f8eb/))
+([permalink](https://openclimatedata.github.io/global-emissions/v/e1c2171cf54d43e44132fe6b997af444a8549813/))
 was automatically generated
-from [openclimatedata/global-emissions@69a6286](https://github.com/openclimatedata/global-emissions/tree/69a6286e7e0d35c1769be6792c714a9f17e3f8eb)
+from [openclimatedata/global-emissions@e1c2171](https://github.com/openclimatedata/global-emissions/tree/e1c2171cf54d43e44132fe6b997af444a8549813)
 on June 1, 2018.
 </em></small>
 
@@ -40,7 +40,10 @@ on June 1, 2018.
 
 
 
+# **Unchecked, unreviewed, work-in-progress**
+
 ## Abstract {.page_break_before}
+
 
 
 
@@ -78,25 +81,45 @@ PRIMAP-hist from 1850 to 2015 and RCP data [@S9E8uhkk] until 2005.
 
 ![Global Methane (CH₄) Emissions [(High Resolution)](images/global-ch4.png)](images/global-ch4.png){#fig:global-ch4}
 
-
 ### N₂O
 
 PRIMAP-hist from 1850 to 2015 and RCP data [@S9E8uhkk] until 2005.
 
 ![Global N₂O Emissions [(High Resolution)](images/global-n2o.png)](images/global-n2o.png){#fig:global-n2o}
 
-
 ### SOx
 
 ### CO
 
+CEDS [@wKi5sIC4]
+
+![Global CO Emissions [(High Resolution)](images/global-co.png)](images/global-co.png){#fig:global-co}
+
 ### NMVOC
+
+CEDS [@wKi5sIC4]
+
+![Global NMVOC Emissions [(High Resolution)](images/global-nmvoc.png)](images/global-nmvoc.png){#fig:global-nmvoc}
 
 ### NOx
 
+CEDS [@wKi5sIC4]
+
+![Global NOx Emissions [(High Resolution)](images/global-nox.png)](images/global-nox.png){#fig:global-nox}
+
+
 ### BC
 
+CEDS [@wKi5sIC4]
+
+![Global BC Emissions [(High Resolution)](images/global-bc.png)](images/global-bc.png){#fig:global-bc}
+
 ### OC
+
+CEDS [@wKi5sIC4]
+
+![Global OC Emissions [(High Resolution)](images/global-oc.png)](images/global-oc.png){#fig:global-oc}
+
 
 ### NH₃
 
