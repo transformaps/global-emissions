@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Robert Gieseke
-date-meta: '2018-05-31'
+date-meta: '2018-06-01'
 keywords:
 - markdown
 - publishing
@@ -17,10 +17,10 @@ title: Global Emissions Timeseries
 
 <small><em>
 This manuscript
-([permalink](https://openclimatedata.github.io/global-emissions/v/554ecaa1f7b615bd5e993a66941f22035c036664/))
+([permalink](https://openclimatedata.github.io/global-emissions/v/32d2f911165d0be618f4e0ff8f76ea1df7600a32/))
 was automatically generated
-from [openclimatedata/global-emissions@554ecaa](https://github.com/openclimatedata/global-emissions/tree/554ecaa1f7b615bd5e993a66941f22035c036664)
-on May 31, 2018.
+from [openclimatedata/global-emissions@32d2f91](https://github.com/openclimatedata/global-emissions/tree/32d2f911165d0be618f4e0ff8f76ea1df7600a32)
+on June 1, 2018.
 </em></small>
 
 ## Authors
