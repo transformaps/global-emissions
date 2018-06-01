@@ -17,9 +17,9 @@ title: Global Emissions Timeseries
 
 <small><em>
 This manuscript
-([permalink](https://openclimatedata.github.io/global-emissions/v/32d2f911165d0be618f4e0ff8f76ea1df7600a32/))
+([permalink](https://openclimatedata.github.io/global-emissions/v/69a6286e7e0d35c1769be6792c714a9f17e3f8eb/))
 was automatically generated
-from [openclimatedata/global-emissions@32d2f91](https://github.com/openclimatedata/global-emissions/tree/32d2f911165d0be618f4e0ff8f76ea1df7600a32)
+from [openclimatedata/global-emissions@69a6286](https://github.com/openclimatedata/global-emissions/tree/69a6286e7e0d35c1769be6792c714a9f17e3f8eb)
 on June 1, 2018.
 </em></small>
 
@@ -80,6 +80,11 @@ PRIMAP-hist from 1850 to 2015 and RCP data [@S9E8uhkk] until 2005.
 
 
 ### N₂O
+
+PRIMAP-hist from 1850 to 2015 and RCP data [@S9E8uhkk] until 2005.
+
+![Global N₂O Emissions [(High Resolution)](images/global-n2o.png)](images/global-n2o.png){#fig:global-n2o}
+
 
 ### SOx
 
