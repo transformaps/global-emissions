@@ -1,5 +1,5 @@
 {
-  "date": "June 1, 2018",
+  "date": "June 4, 2018",
   "authors": [
     {
       "github": "rgieseke",
@@ -26,13 +26,13 @@
     "repo_slug": "openclimatedata/global-emissions",
     "repo_owner": "openclimatedata",
     "repo_name": "global-emissions",
-    "commit": "e1c2171cf54d43e44132fe6b997af444a8549813"
+    "commit": "1cd54a9a9d2959abddd2d488b066b99ffd661182"
   },
   "manuscript_stats": {
     "reference_counts": {
       "doi": 10,
       "total": 10
     },
-    "word_count": 497
+    "word_count": 523
   }
 }

@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Robert Gieseke
-date-meta: '2018-06-01'
+date-meta: '2018-06-04'
 keywords:
 - markdown
 - publishing
@@ -17,10 +17,10 @@ title: Global Emissions Timeseries
 
 <small><em>
 This manuscript
-([permalink](https://openclimatedata.github.io/global-emissions/v/e1c2171cf54d43e44132fe6b997af444a8549813/))
+([permalink](https://openclimatedata.github.io/global-emissions/v/1cd54a9a9d2959abddd2d488b066b99ffd661182/))
 was automatically generated
-from [openclimatedata/global-emissions@e1c2171](https://github.com/openclimatedata/global-emissions/tree/e1c2171cf54d43e44132fe6b997af444a8549813)
-on June 1, 2018.
+from [openclimatedata/global-emissions@1cd54a9](https://github.com/openclimatedata/global-emissions/tree/1cd54a9a9d2959abddd2d488b066b99ffd661182)
+on June 4, 2018.
 </em></small>
 
 ## Authors
@@ -40,13 +40,9 @@ on June 1, 2018.
 
 
 
-# **Unchecked, unreviewed, work-in-progress**
+<h1 style="color: white; background-color: orange; text-align: center; border: 1px solid black; padding: 10px;">Unreviewed, work-in-progress ...</h1>
 
 ## Abstract {.page_break_before}
-
-
-
-
 
 
 ## Introduction
@@ -93,17 +89,23 @@ PRIMAP-hist from 1850 to 2015 and RCP data [@S9E8uhkk] until 2005.
 
 CEDS [@wKi5sIC4]
 
+Missing: Burning emissions
+
 ![Global CO Emissions [(High Resolution)](images/global-co.png)](images/global-co.png){#fig:global-co}
 
 ### NMVOC
 
 CEDS [@wKi5sIC4]
 
+Missing: Burning emissions
+
 ![Global NMVOC Emissions [(High Resolution)](images/global-nmvoc.png)](images/global-nmvoc.png){#fig:global-nmvoc}
 
 ### NOx
 
 CEDS [@wKi5sIC4]
+
+Missing: Burning emissions
 
 ![Global NOx Emissions [(High Resolution)](images/global-nox.png)](images/global-nox.png){#fig:global-nox}
 
@@ -112,11 +114,15 @@ CEDS [@wKi5sIC4]
 
 CEDS [@wKi5sIC4]
 
+Missing: Burning emissions
+
 ![Global BC Emissions [(High Resolution)](images/global-bc.png)](images/global-bc.png){#fig:global-bc}
 
 ### OC
 
 CEDS [@wKi5sIC4]
+
+Missing: Burning emissions
 
 ![Global OC Emissions [(High Resolution)](images/global-oc.png)](images/global-oc.png){#fig:global-oc}
 
